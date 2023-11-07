@@ -1,0 +1,92 @@
+[
+  {
+    "bootcamp": "64ec45d57f313e11cf861ca9",
+    "title": "Web Development Course",
+    "description": "In this comprehensive web development course, you'll learn how to create dynamic and interactive websites. Covering HTML, CSS, JavaScript, and popular frameworks like React, you'll gain the skills to build modern web applications. Whether you're a complete beginner or have some coding experience, this course will equip you with the knowledge to turn your ideas into functional web projects.",
+    "weeks": 12,
+    "tuition": 2500,
+    "minimumSkill": "Beginner",
+    "scholarshipAvailable": false
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861cab",
+    "title": "Data Science Course",
+    "description": "Embark on a journey into the world of data science and analytics. This comprehensive course will teach you how to gather, clean, analyze, and visualize data to derive meaningful insights. With hands-on experience using tools like Python and popular libraries like Pandas, NumPy, and Matplotlib, you'll be equipped to tackle real-world data challenges. Whether you're looking to switch careers or enhance your analytical skills, this course is designed for both beginners and those with some programming background.",
+    "weeks": 16,
+    "tuition": 3500,
+    "minimumSkill": "Intermediate",
+    "scholarshipAvailable": true
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861ca9",
+    "title": "Machine Learning Course",
+    "description": "Dive deep into the fascinating field of machine learning. This intensive course will guide you through various machine learning algorithms and their applications. From supervised to unsupervised learning, you'll gain hands-on experience in training models to make predictions, classifications, and more. With practical projects and exposure to popular libraries like scikit-learn and TensorFlow, this course is ideal for individuals with an intermediate coding background who want to harness the power of machine learning.",
+    "weeks": 20,
+    "tuition": 4500,
+    "minimumSkill": "Intermediate",
+    "scholarshipAvailable": true
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861caa",
+    "title": "Mobile Development Course",
+    "description": "Unleash your creativity in the world of mobile app development. This course will guide you through the process of building mobile applications for both iOS and Android platforms. From UI/UX design to coding and testing, you'll learn the essentials of app development using popular tools and languages like Swift and Kotlin. Whether you're new to coding or have some experience, this course will equip you with the skills to bring your app ideas to life.",
+    "weeks": 14,
+    "tuition": 3000,
+    "minimumSkill": "Beginner",
+    "scholarshipAvailable": false
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861caa",
+    "title": "Blockchain Course",
+    "description": "Delve into the revolutionary technology of blockchain and cryptocurrencies. This course will take you through the concepts of decentralized ledgers, smart contracts, and cryptographic security. Gain hands-on experience in creating your own blockchain applications and exploring the potential of digital currencies. Whether you're curious about the technology behind cryptocurrencies or seeking to develop blockchain-based solutions, this course is designed for beginners looking to understand the fundamentals.",
+    "weeks": 10,
+    "tuition": 2000,
+    "minimumSkill": "Beginner",
+    "scholarshipAvailable": false
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861ca9",
+    "title": "MERN Stack Course",
+    "description": "Master the art of full-stack web development with the MERN stack. This course will teach you how to build dynamic web applications using MongoDB, Express.js, React, and Node.js. From designing interactive user interfaces to creating server-side APIs, you'll gain a comprehensive understanding of both front-end and back-end development. Whether you're new to programming or have experience in other technologies, this course is designed to give you the skills to create modern, responsive web applications.",
+    "weeks": 18,
+    "tuition": 3200,
+    "minimumSkill": "Intermediate",
+    "scholarshipAvailable": true
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861ca9",
+    "title": "Frontend Development Course",
+    "description": "Immerse yourself in the world of frontend web development. This course is dedicated to teaching you the art of creating visually appealing and interactive user interfaces. From HTML and CSS fundamentals to mastering modern JavaScript frameworks like Vue.js, you'll learn the skills needed to craft seamless user experiences. Whether you're a beginner or have some coding knowledge, this course will equip you with the tools to design and build captivating web interfaces.",
+    "weeks": 10,
+    "tuition": 1800,
+    "minimumSkill": "Beginner",
+    "scholarshipAvailable": true
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861caa",
+    "title": "Backend Development Course",
+    "description": "Learn the art of backend web development. This course will teach you how to build robust server-side applications using Node.js, Express.js, and MongoDB. From designing RESTful APIs to integrating with front-end technologies, you'll gain a comprehensive understanding of backend development. Whether you're new to programming or have experience in other technologies, this course is designed to give you the skills to create modern, scalable web applications.",
+    "weeks": 12,
+    "tuition": 2500,
+    "minimumSkill": "Intermediate",
+    "scholarshipAvailable": false
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861ca9",
+    "title": "Python Course",
+    "description": "Master the art of Python programming. This course will teach you how to build robust applications using Python. From designing user interfaces to creating server-side APIs, you'll gain a comprehensive understanding of both front-end and back-end development. Whether you're new to programming or have experience in other technologies, this course is designed to give you the skills to create modern, responsive web applications.",
+    "weeks": 10,
+    "tuition": 1800,
+    "minimumSkill": "Beginner",
+    "scholarshipAvailable": true
+  },
+  {
+    "bootcamp": "64ec45d57f313e11cf861ca9",
+    "title": "Java Course",
+    "description": "Master the art of Java programming. This course will teach you how to build robust applications using Java. From designing user interfaces to creating server-side APIs, you'll gain a comprehensive understanding of both front-end and back-end development. Whether you're new to programming or have experience in other technologies, this course is designed to give you the skills to create modern, responsive web applications.",
+    "weeks": 10,
+    "tuition": 1800,
+    "minimumSkill": "Beginner",
+    "scholarshipAvailable": true
+  }
+]

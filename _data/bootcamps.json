@@ -1,0 +1,72 @@
+[
+    {
+      "name": "Coding Academy Bootcamp",
+      "description": "Learn to code and launch your tech career!",
+      "website": "https://www.codingacademybootcamp.com",
+      "phone": "(123) 456-7890",
+      "email": "info@codingacademybootcamp.com",
+      "address": "123 Main Street, Tech City, USA",
+      "careers": [
+        "Web Development",
+        "Mobile Development",
+        "UI/UX"
+      ],
+      "photo": "no-photo.jpg",
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": false,
+      "acceptGi": true
+    },
+    {
+      "name": "TechLift Bootcamp",
+      "description": "Unlock your potential in the tech industry!",
+      "website": "https://www.techliftbootcamp.com",
+      "phone": "(987) 654-3210",
+      "email": "contact@techskillsprobootcamp.com",
+      "address": "456 Tech Boulevard, Silicon Valley, USA",
+      "careers": [
+        "Web Development",
+        "Mobile Development",
+        "UI/UX"
+      ],
+      "photo": "no-photo.jpg",
+      "housing": false,
+      "jobAssistance": true,
+      "jobGuarantee": true,
+      "acceptGi": true
+    },
+    {
+      "name": "Data Science Masterclass",
+      "description": "Become a Data Scientist and unlock the power of data!",
+      "website": "https://www.datasciencemasterclass.com",
+      "phone": "(555) 123-4567",
+      "email": "info@datasciencemasterclass.com",
+      "address": "789 Data Lane, Analytics City, USA",
+      "careers": [
+        "Web Development",
+        "Mobile Development",
+        "UI/UX"
+      ],
+      "photo": "no-photo.jpg",
+      "housing": true,
+      "jobAssistance": true,
+      "jobGuarantee": false,
+      "acceptGi": true
+    },
+    {
+      "name": "Digital Marketing Pro Course",
+      "description": "Master the art of digital marketing and boost your online presence!",
+      "website": "https://www.digitalmarketingprocourse.com",
+      "phone": "(555) 789-1234",
+      "email": "info@digitalmarketingprocourse.com",
+      "address": "567 Marketing Avenue, Online City, USA",
+      "careers": [
+        "Business"
+      ],
+      "photo": "no-photo.jpg",
+      "housing": false,
+      "jobAssistance": true,
+      "jobGuarantee": false,
+      "acceptGi": false
+    }
+  ]
